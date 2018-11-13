@@ -1,4 +1,2 @@
-# SA-Threat-Hunting
-Splunk app for Threat hunting
-
-`currently under development, please check back later`
+# ThreatHunting Splunk app data
+supporting data for documentation, the app will be published in a separate repo
